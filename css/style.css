@@ -1,0 +1,164 @@
+*{
+     box-sizing: border-box;
+}
+.ba-container {
+    
+    width: 1200px;
+    margin: 0 auto;
+}
+.ba-grid:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+.text {
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    vertical-align: middle;
+    
+}
+.col1 {
+    float: left;
+    border: 5px solid  white;
+    background-color: #AFDFBF;
+    width: 600px;
+    height: 150px;
+    
+}
+.col2 {
+    float: right;
+    border: 5px solid  white;
+    background-color: #68C5B8;
+     width: 600px;
+    height: 150px;
+}
+.col3 {
+     float: left;
+    border: 5px solid  white;
+    background-color: #FA688A;
+    width: 600px;
+    height: 320px;
+}
+.col4 .col5 {
+     float: right;
+    border: 5px solid  white;
+    background-color:#8A95EF;
+    width: 200px;
+    height: 165px;
+}
+
+.col4 .col6 {
+     float: right;
+    border: 5px solid  white;
+    background-color:#8A95EF;
+    width: 200px;
+    height: 165px;
+}
+.col4 .col7 {
+     float: right;
+    border: 5px solid  white;
+    background-color:#8A95EF;
+    width: 200px;
+    height: 165px;
+}
+.col4 .col8 {
+    float: right;
+    border: 5px solid  white;
+    background-color:#FFC569;
+    width: 300px;
+    height: 155px;
+}
+
+
+.col4 .col9 {
+    float: right;
+    border: 5px solid  white;
+    background-color:#FFC569;
+    width: 300px;
+    height: 155px;
+}
+
+
+.col10 {
+    float: left;
+    border: 5px solid  white;
+    background-color:#588CC7;
+    width: 420px;
+    height: 185px;
+}
+.col11 {
+    float: left;
+    border: 5px solid  white;
+    background-color:#588CC7;
+    width: 420px;
+    height: 185px;
+}
+.col12 {
+      float: left;
+    border: 5px solid  white;
+    background-color:#588CC7;
+    width: 200px;
+    height: 185px;
+}
+.col13 {
+      float: left;
+    border: 5px solid  white;
+    background-color:#588CC7;
+    width: 200px;
+    height: 185px;
+}
+.col14 {
+     float: left;
+    border: 5px solid  white;
+    background-color:#6652AD;
+    width: 190px;
+    height: 135px;
+}
+.col15 {
+     float: left;
+    border: 5px solid  white;
+    background-color:#6652AD;
+    width: 590px;
+    height: 135px;
+}
+.col16 {
+     float: left;
+    border: 5px solid  white;
+    background-color:#6652AD;
+    width: 398px;
+    height: 135px;
+}
+
+
+
+.col-1 {
+    width: 10%;
+}
+.col-2 {
+    width: 10%;
+}
+.col-3 {
+    width: 25%;
+}
+.col-4 {
+    width: 40%;
+}
+.col-5 {
+    width: 50%;
+}
+.col-6 {
+    width: 66.666666%;
+}
+.col-7 {
+    width: 70%;
+}
+.col-8 {
+    width: 80%;
+}
+.col-9 {
+    width: 99.999999%;
+}
+.col-10 {
+    width: 100%;
+}
